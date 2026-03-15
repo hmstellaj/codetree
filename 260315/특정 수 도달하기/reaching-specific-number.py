@@ -15,5 +15,5 @@ else:
         else:
             break
 
-print(total_sum, end=' ')
-print(round(total_sum/count, 1))
+    print(total_sum, end=' ')
+    print(round(total_sum/count, 1))
